@@ -12,7 +12,8 @@ JavaScript ES6 이후에 추가된 주요 기능 중에서, 템플릿 리터럴,
 이러한 기능들이 JavaScript 프로그래밍에 어떤 이점을 제공하는지 구체적인 예를 들어 설명해 주세요.
 
 **답변:**
-<span style="background-color:#DCFF24">
+
+<span style="color:#DCFF24">
 템플릿 리터럴: 
 </span>
 
